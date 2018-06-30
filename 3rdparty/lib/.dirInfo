@@ -1,0 +1,2 @@
+; 项目第三方依赖库文件存储目录，建议部署安装时移动至 `/usr/local/lib`。
+; The third-party dependent library file storage directory of the project is recommended to be moved to `/usr/local/lib` during deployment and installation.

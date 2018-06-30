@@ -1,0 +1,2 @@
+; 项目第三方依赖头文件存储目录，建议部署安装时移动至 `/usr/local/include`。
+; The third party of the project relies on the header file storage directory, it is recommended to move to `/usr/local/include` when deploying and installing.

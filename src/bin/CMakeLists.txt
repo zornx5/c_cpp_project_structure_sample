@@ -1,0 +1,1 @@
+add_executable(c_cpp_project_structure_sample main.c)

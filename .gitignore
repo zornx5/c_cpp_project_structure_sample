@@ -1,0 +1,11 @@
+# Cmake
+cmake-build-debug
+cmake-build-release
+
+# JetBrains
+.idea
+
+# Build
+build
+
+.DS_Store

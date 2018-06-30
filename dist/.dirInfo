@@ -1,0 +1,2 @@
+; 项目分发目录，最终发布的可执行程序和各种运行支持文件存放在此目录，打包此目录即可完成项目分发。
+; The project distribution directory, the final released executable program and various operating support files are stored in this directory, and the project distribution can be completed by packaging this directory.
